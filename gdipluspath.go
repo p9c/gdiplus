@@ -3,7 +3,7 @@ package gdiplus
 import (
 	"errors"
 
-	. "github.com/tryor/winapi"
+	. "github.com/p9c/winapi"
 )
 
 type GraphicsPath struct {

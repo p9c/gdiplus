@@ -4,7 +4,7 @@ import (
 	"errors"
 	"unsafe"
 
-	. "github.com/tryor/winapi"
+	. "github.com/p9c/winapi"
 )
 
 //#if (GDIPVER >= 0x0110)

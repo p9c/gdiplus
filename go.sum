@@ -1,0 +1,4 @@
+github.com/p9c/winapi v0.0.0-20200525040926-cd87d62e2f9b h1:MtKsSo2Q2LflMWLNnUBE54LAxJutUNaB0sjGDnfTybw=
+github.com/p9c/winapi v0.0.0-20200525040926-cd87d62e2f9b/go.mod h1:3kZjp9w9PA5nqRqVshQlL/qzhNsZhAADQRzFp5QIlZw=
+github.com/tryor/winapi v0.0.0-20200525040926-cd87d62e2f9b h1:1AGoyclL+cx3LKzptgjHsRpG8ltCOaj36qUrIHRJEec=
+github.com/tryor/winapi v0.0.0-20200525040926-cd87d62e2f9b/go.mod h1:NUZCLXgdFgm/L5ovQjuZxttpvHVGcRL+9lZ8N/KeBls=

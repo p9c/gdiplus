@@ -1,7 +1,7 @@
 package gdiplus
 
 import (
-	. "github.com/tryor/winapi"
+	. "github.com/p9c/winapi"
 )
 
 //#ifndef DCR_REMOVE_INTERNAL

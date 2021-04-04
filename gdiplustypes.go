@@ -5,7 +5,7 @@ import (
 	"unsafe"
 )
 import (
-	. "github.com/tryor/winapi"
+	. "github.com/p9c/winapi"
 )
 
 //通过syscall.NewCallback() 返回

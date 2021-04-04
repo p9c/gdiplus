@@ -4,8 +4,8 @@ import (
 	"syscall"
 	"unsafe"
 
-	. "github.com/tryor/winapi"
-	. "github.com/tryor/winapi/gdi"
+	. "github.com/p9c/winapi"
+	. "github.com/p9c/winapi/gdi"
 )
 
 var GenericSansSerifFontFamily *FontFamily

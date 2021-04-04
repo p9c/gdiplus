@@ -3,8 +3,8 @@ package gdiplus
 import (
 	"unsafe"
 
-	. "github.com/tryor/winapi"
-	. "github.com/tryor/winapi/gdi"
+	. "github.com/p9c/winapi"
+	. "github.com/p9c/winapi/gdi"
 )
 
 type ENHMETAHEADER3 struct {
